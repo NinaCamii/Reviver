@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProjektiX</string>
+    <string name="go">GO!</string>
+    <string name="projektix">ProjektiX</string>
+    <string name="todo">TODO</string>
+        <string name="button_employed">Employed</string>
+        <string name="button_student">Student</string>
+        <string name="button_unemployed">Unemployed</string>
+        <string name="button_yes">Yes</string>
+        <string name="button_no">No</string>
+        <string name="button_improvement">Needs improvement</string>
+        <string name="button_good">Good</string>
+        <string name="button_go">Let's go</string>
+        <string name="text_employment">What is your current employment situation?</string>
+        <string name="text_partner">Are you currently seeing anyone?</string>
+        <string name="text_family">How is your relationship with your family?</string>
+        <string name="text_questions">Few questions before we start</string>
+</resources>
