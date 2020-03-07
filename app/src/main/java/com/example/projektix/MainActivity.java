@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String DAYS = "passing days";
     ListView lv;
     //Kunhan testailen
-    //Testi 3
+    //Testi 4
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
